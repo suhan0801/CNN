@@ -1,5 +1,7 @@
 # CNN 模型研究專案
 
+模型連結:https://colab.research.google.com/drive/1Jc3DdWGzWf7t-5b9wdv8FqewTxERR3_f?usp=sharing
+
 這個專案主要進行 **CNN 模型相關研究**，重點包含：
 
 - 利用 **LeNet-5** 研究模型架構  
